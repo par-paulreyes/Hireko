@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Data.SqlClient;
 
 
@@ -33,6 +33,11 @@ namespace Hireko.Database
                 UserId INT PRIMARY KEY IDENTITY,
                 Username NVARCHAR(50) NOT NULL,
                 Password NVARCHAR(50) NOT NULL,
+                FirstName NVARCHAR(100) NOT NULL,
+                LastName NVARCHAR(100) NOT NULL,
+                Email NVARCHAR(100) NOT NULL,
+                Address NVARCHAR(255) NOT NULL,
+                Phone NVARCHAR(20) NOT NULL,
                 UserType NVARCHAR(50) NOT NULL DEFAULT 'buyer'
             )";
             string createBuyersTableQuery = @"
