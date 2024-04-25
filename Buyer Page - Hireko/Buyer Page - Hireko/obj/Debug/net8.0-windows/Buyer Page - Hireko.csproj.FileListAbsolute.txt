@@ -1,0 +1,18 @@
+C:\Users\USER\source\repos\Buyer Page - Hireko\Buyer Page - Hireko\bin\Debug\net8.0-windows\Buyer Page - Hireko.exe
+C:\Users\USER\source\repos\Buyer Page - Hireko\Buyer Page - Hireko\bin\Debug\net8.0-windows\Buyer Page - Hireko.deps.json
+C:\Users\USER\source\repos\Buyer Page - Hireko\Buyer Page - Hireko\bin\Debug\net8.0-windows\Buyer Page - Hireko.runtimeconfig.json
+C:\Users\USER\source\repos\Buyer Page - Hireko\Buyer Page - Hireko\bin\Debug\net8.0-windows\Buyer Page - Hireko.dll
+C:\Users\USER\source\repos\Buyer Page - Hireko\Buyer Page - Hireko\bin\Debug\net8.0-windows\Buyer Page - Hireko.pdb
+C:\Users\USER\source\repos\Buyer Page - Hireko\Buyer Page - Hireko\obj\Debug\net8.0-windows\Buyer_Page___Hireko.Form1.resources
+C:\Users\USER\source\repos\Buyer Page - Hireko\Buyer Page - Hireko\obj\Debug\net8.0-windows\Buyer Page - Hireko.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Buyer Page - Hireko\Buyer Page - Hireko\obj\Debug\net8.0-windows\Buyer Page - Hireko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Buyer Page - Hireko\Buyer Page - Hireko\obj\Debug\net8.0-windows\Buyer Page - Hireko.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Buyer Page - Hireko\Buyer Page - Hireko\obj\Debug\net8.0-windows\Buyer Page - Hireko.AssemblyInfo.cs
+C:\Users\USER\source\repos\Buyer Page - Hireko\Buyer Page - Hireko\obj\Debug\net8.0-windows\Buyer Page - Hireko.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Buyer Page - Hireko\Buyer Page - Hireko\obj\Debug\net8.0-windows\Buyer Page - Hireko.dll
+C:\Users\USER\source\repos\Buyer Page - Hireko\Buyer Page - Hireko\obj\Debug\net8.0-windows\refint\Buyer Page - Hireko.dll
+C:\Users\USER\source\repos\Buyer Page - Hireko\Buyer Page - Hireko\obj\Debug\net8.0-windows\Buyer Page - Hireko.pdb
+C:\Users\USER\source\repos\Buyer Page - Hireko\Buyer Page - Hireko\obj\Debug\net8.0-windows\Buyer Page - Hireko.genruntimeconfig.cache
+C:\Users\USER\source\repos\Buyer Page - Hireko\Buyer Page - Hireko\obj\Debug\net8.0-windows\ref\Buyer Page - Hireko.dll
+C:\Users\USER\source\repos\Buyer Page - Hireko\Buyer Page - Hireko\obj\Debug\net8.0-windows\Buyer_Page___Hireko.ServiceDetailsForm.resources
+C:\Users\USER\source\repos\Buyer Page - Hireko\Buyer Page - Hireko\obj\Debug\net8.0-windows\Buyer_Page___Hireko.PaymentForm.resources
