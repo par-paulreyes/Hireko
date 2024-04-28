@@ -18,7 +18,7 @@ namespace Hireko
             initializer.InitializeDatabase();
 
             ApplicationConfiguration.Initialize();
-            Application.Run(new MainForm()); //Ito unang magrurun
+            Application.Run(new LoginForm()); //Ito unang magrurun
         }
     }
 }
