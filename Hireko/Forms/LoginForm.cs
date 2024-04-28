@@ -35,8 +35,8 @@ namespace Hireko.Forms
                 MessageBox.Show("Login successful!");
                 // Add code to navigate to the next form or perform further actions upon successful login
                 // Redirect to BuyServiceForm
-                CreateServiceForm buyServiceForm = new CreateServiceForm();
-                buyServiceForm.Show();
+                MainForm mainForm = new MainForm();
+                mainForm.Show();
             }
             else
             {
