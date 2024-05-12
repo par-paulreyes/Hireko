@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://github.com/par-paulreyes/Hireko/blob/main/media/giphy.gif" height ="90" width="100"/>&nbsp;
-    <img src="https://i.ibb.co/xXSkmMH/hire-ko-4-24-2024-1.png" height="82" width="260"/><br>
-    <img src="https://i.ibb.co/syLLN0r/an-eco-conscious-freelancing-w-4-24-2024.png" height ="35" width="300"/>
+    <img src="https://i.ibb.co/SfcjHTV/image-removebg-preview-2.png" height="100" width="285"/><br>
+    <img src="https://i.ibb.co/vq4GzRN/image-removebg-preview-1.png" height ="35" width="320"/>
 </p>
 
 
