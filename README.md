@@ -103,7 +103,7 @@ In line with SDG 11, otherwise referred to as "Sustainable Cities and Communitie
 <div align="center">
 <table>
 	<tr>
-        <th><img src="https://i.ibb.co/jLSS1Gr/387328927-1112705976772427-8860459638482587988-n-removebg-preview.png" width="100" height="100"/></th>
+        <th><img src="https://i.ibb.co/jLSS1Gr/387328927-1112705976772427-8860459638482587988-n-removebg-preview.png" width="100" height="90"/></th>
         <td>
             <div align="left"><strong>💡 Jaron Louise Arquillo</strong><br>
                 ➟ 1HP Remaining (he/him)<br>
@@ -132,7 +132,7 @@ In line with SDG 11, otherwise referred to as "Sustainable Cities and Communitie
                 ➟ 22-03865@g.batstate-u.edu.ph
             </div>
         </td>
-        <th><img src="https://i.ibb.co/89SnmNY/image-removebg-preview-8.png" width="100" height="95"/></th>
+        <th><img src="https://i.ibb.co/89SnmNY/image-removebg-preview-8.png" width="100" height="90"/></th>
         <td>
             <div align="left"><strong>💡 Vince Clyde S. Banaag</strong><br>
                 ➟ maloi fanclub president (he/him)<br>
