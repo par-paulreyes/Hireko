@@ -59,7 +59,7 @@ In line with SDG 11, otherwise referred to as "Sustainable Cities and Communitie
 
 ♻️ **Service Creation**: Users who desire to render a service may do so by filling in the information needed, which will then be submitted to the admins of the platform for further evaluation with regards to sustainability.
 
-♻️ **Service Filter and Search Function**: Users may use the search bar and/or the option to find the service they are presently in need of.
+♻️ **Service Filter and Search Function**: Users may use the search bar and/or the filter option to find the service they are presently in need of.
 
 ♻️ **Profile Overview and Editing**: Users may view and edit their respective personal information to keep their profile up-to-date.
 
