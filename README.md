@@ -123,7 +123,7 @@ In line with SDG 11, otherwise referred to as "Sustainable Cities and Communitie
         </td>
     </tr>
 	<tr>
-        <th><img src="https://i.ibb.co/NCqL8Wm/403629066-664455985677276-3442638710394462470-n.jpg" width="125" height="125"/></th>
+        <th><img src="https://i.ibb.co/NCqL8Wm/403629066-664455985677276-3442638710394462470-n.jpg" width="110" height="110"/></th>
         <td>
             <div align="left"><strong>💡 Mary Kristine A. De Jose</strong><br>
                 ➟ dynamite with a laser beam (she/her)<br>
@@ -132,7 +132,7 @@ In line with SDG 11, otherwise referred to as "Sustainable Cities and Communitie
                 ➟ 22-03865@g.batstate-u.edu.ph
             </div>
         </td>
-        <th><img src="https://i.ibb.co/89SnmNY/image-removebg-preview-8.png" width="125" height="125"/></th>
+        <th><img src="https://i.ibb.co/89SnmNY/image-removebg-preview-8.png" width="110" height="110"/></th>
         <td>
             <div align="left"><strong>💡 Vince Clyde S. Banaag</strong><br>
                 ➟ maloi fanclub president (he/him)<br>
@@ -143,7 +143,7 @@ In line with SDG 11, otherwise referred to as "Sustainable Cities and Communitie
         </td>
     </tr>
     <tr>
-        <th><img src="https://i.ibb.co/HCvmMgC/399840751-6737253069676296-2239225414771579590-n.jpg" width="125" height="125"/></th>
+        <th><img src="https://i.ibb.co/HCvmMgC/399840751-6737253069676296-2239225414771579590-n.jpg" width="110" height="110"/></th>
         <td>
             <div align="left"><strong>💡 Paul Alexis J. Reyes</strong><br>
                 ➟ kinemaster cracked (he/him)<br>
@@ -152,7 +152,7 @@ In line with SDG 11, otherwise referred to as "Sustainable Cities and Communitie
                 ➟ 22-00869@g.batstate-u.edu.ph
             </div>
         </td>
-	    <th><img src="https://i.ibb.co/MGG0t3G/image.png" width="125" height="125"/></th>
+	    <th><img src="https://i.ibb.co/MGG0t3G/image.png" width="110" height="110"/></th>
         <td>
             <div align="left"><strong>💡 Paul Oliver E. Cruz</strong><br>
                 ➟ ultimate programmer<br>
