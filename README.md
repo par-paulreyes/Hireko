@@ -132,7 +132,7 @@ In line with SDG 11, otherwise referred to as "Sustainable Cities and Communitie
                 ➟ 22-03865@g.batstate-u.edu.ph
             </div>
         </td>
-        <th><img src="" width="200" height="200"/></th>
+        <th><img src="https://i.ibb.co/89SnmNY/image-removebg-preview-8.png" width="200" height="180"/></th>
         <td>
             <div align="left"><strong>💡 Vince Clyde S. Banaag</strong><br>
                 ➟ maloi fanclub president (he/him)<br>
