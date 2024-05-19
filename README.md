@@ -26,6 +26,14 @@ This project tackles the increasing demand for sustainable solutions and aims to
 
 ### <a name="sop"></a>
 ## 🍃 Statement of the Problem
+<div align="justify">The rise of freelancing has fundamentally transformed traditional workplace structures, offering greater flexibility for both employees and employers by removing many time and location constraints. However, this shift comes at a time when environmental concerns are more pressing than ever, prompting companies to seek innovative ways to reduce their ecological footprints. This project addresses the critical need to merge these trends by creating service applications that focus on eco-friendly tasks. Such applications can empower freelancers and businesses to actively participate in environmental initiatives, thereby harnessing the potential of the gig economy to drive significant and beneficial environmental impact. Through this approach, we aim to meet the increasing demand for sustainable solutions while leveraging the autonomy and adaptability inherent in freelance work to foster a greener future.
+
+
+
+
+
+
+
 
 ### <a name="purpose"></a>
 ## 📈 Purpose
@@ -65,9 +73,13 @@ In line with SDG 11, otherwise referred to as "Sustainable Cities and Communitie
 ♻️ **Admin Service/User/Order Moderation**: The admin has the power to approve or delete orders, remove users in violation of the terms and conditions, and control the status of the orders within the platform.
 ### <a name="prereqs"></a>
 ## 💻 Prerequisites
-🌐 ***Install [Visual Studio](https://visualstudio.microsoft.com/downloads/)***
+🌐 **Install [Visual Studio](https://visualstudio.microsoft.com/downloads/)**
 
-🌐
+🌐 **Install the .NET Desktop Development workload on Visual Studio**
+
+🌐 **Go to Tools > NuGet Package Manager > Package Manager Console and install following packages:**
+<pre><code>Install-Package dotnet-env</code></pre>
+<pre><code>Install-Package MySql.Data</code></pre>
 
 ### <a name="preview"></a>
 ## 🫣 Preview
