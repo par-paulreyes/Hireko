@@ -71,7 +71,7 @@ In line with SDG 11, otherwise referred to as "Sustainable Cities and Communitie
 
 ♻️ **Admin Dashboard**: The admin dashboard provides an overview of user statistics, orders, services, pending and approved services, and the application’s total income.
 
-♻️ **Admin Service/User/Order Moderation**: The admin has the power to approve or delete orders, remove users in violation of the terms and conditions, and control the status of the orders within the platform.
+♻️ **Admin Service/User/Order Moderation**: The admin has the power to approve or delete services, remove users in violation of the terms and conditions, and control the status of the orders within the platform.
 ### <a name="prereqs"></a>
 ## 💻 Prerequisites
 🌐 **Install [Visual Studio](https://visualstudio.microsoft.com/downloads/)**
