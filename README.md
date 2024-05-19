@@ -155,7 +155,7 @@ In line with SDG 11, otherwise referred to as "Sustainable Cities and Communitie
 	    <th><img src="https://i.ibb.co/MGG0t3G/image.png" width="100" height="100"/></th>
         <td>
             <div align="left"><strong>💡 Paul Oliver E. Cruz</strong><br>
-                ➟ ultimate programmer<br>
+                ➟ ultimate programmer (he/him)<br>
                 ➟ INFP<br>
                 ➟ 22-05614@g.batstate-u.edu.ph
             </div>
