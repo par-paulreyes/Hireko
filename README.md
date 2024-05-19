@@ -1,7 +1,6 @@
 <p align="center">
-    <img src="https://github.com/par-paulreyes/Hireko/blob/main/media/giphy.gif" height ="90" width="100"/>&nbsp;
-    <img src="https://i.ibb.co/SfcjHTV/image-removebg-preview-2.png" height="100" width="285"/><br>
-    <img src="https://i.ibb.co/vq4GzRN/image-removebg-preview-1.png" height ="35" width="320"/>
+    <img src="https://i.ibb.co/tQZ0Ccm/black-white-leaf-logo2-removebg-preview.png" height="180" width="380"/><br>
+    <img src="https://i.ibb.co/BGsMDgS/image-removebg-preview-7.png" height="50" width="470"/><br>
 </p>
 
 
