@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="https://i.ibb.co/tQZ0Ccm/black-white-leaf-logo2-removebg-preview.png" height="120" width="250"/><br>
-    <img src="https://i.ibb.co/BGsMDgS/image-removebg-preview-7.png" height="50" width="470"/><br>
+    <img src="https://i.ibb.co/tQZ0Ccm/black-white-leaf-logo2-removebg-preview.png" height="160" width="330"/><br>
+    <img src="https://i.ibb.co/BGsMDgS/image-removebg-preview-7.png" height="40" width="370"/><br>
 </p>
 
 <details>
@@ -12,6 +12,7 @@
 - [Features](#features)
 - [Prerequisites](#prereqs)
 - [Preview](#preview)
+- [Demo](#demo)
 - [Video Presentation](#vid)
 - [Member Portfolio](#members)
 
@@ -91,8 +92,9 @@ In line with SDG 11, otherwise referred to as "Sustainable Cities and Communitie
 <img src="https://i.ibb.co/NmvpFqk/Screenshot-2024-05-19-214305.png" height="280" width="500"/>
 </div>
 
-### <a name="preview"></a>
-## App Demo 
+### <a name="demo"></a>
+## 📝 App Demo 
+
 ### <a name="vid"></a>
 ## 🎥 Video Presentation
 
