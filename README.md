@@ -112,7 +112,7 @@ In line with SDG 11, otherwise referred to as "Sustainable Cities and Communitie
                 ➟ 22-03531@g.batstate-u.edu.ph
             </div>
         </td>
-        <th><img src="https://i.ibb.co/0y8tDxG/400157860-725047402815272-7964848878070784083-n.jpg" width="125" height="125"/></th>
+        <th><img src="https://i.ibb.co/0y8tDxG/400157860-725047402815272-7964848878070784083-n.jpg" width="110" height="110"/></th>
         <td>
             <div align="left"><strong>💡 Eljay P. Marasigan</strong><br>
                 ➟ Twitter Enjoyer (she/her)<br>
