@@ -83,10 +83,81 @@ In line with SDG 11, otherwise referred to as "Sustainable Cities and Communitie
 
 ### <a name="preview"></a>
 ## 🫣 Preview
+<div align="center">
+<img src="https://i.ibb.co/mS2ktVR/Screenshot-2024-05-19-213906.png" height="280" width="500"/> 
+<img src="https://i.ibb.co/QDg28L0/Screenshot-2024-05-19-214116.png" height="280" width="500"/>
+<img src="https://i.ibb.co/RpP4JXy/Screenshot-2024-05-19-214136.png" height="280" width="500"/>
+<img src="https://i.ibb.co/G9KQbJY/Screenshot-2024-05-19-214230.png" height="280" width="500"/>
+<img src="https://i.ibb.co/NmvpFqk/Screenshot-2024-05-19-214305.png" height="280" width="500"/>
+</div>
 
 ### <a name="vid"></a>
 ## 🎥 Video Presentation
 
 ### <a name="members"></a>
 ## :shipit: Member Portfolio
+<div align="center">
+<table>
+	<tr>
+        <th><img src="https://i.ibb.co/jLSS1Gr/387328927-1112705976772427-8860459638482587988-n-removebg-preview.png" width="200" height="200"/></th>
+        <td>
+            <div align="left"><strong>💡 Jaron Louise Arquillo</strong><br>
+                ➟ 1HP Remaining (he/him)<br>
+                ➟ INTJ<br>
+                ➟ Capricorn<br>
+                ➟ 22-03531@g.batstate-u.edu.ph
+            </div>
+        </td>
+        <th><img src="https://i.ibb.co/0y8tDxG/400157860-725047402815272-7964848878070784083-n.jpg" width="200" height="200"/></th>
+        <td>
+            <div align="left"><strong>💡 Eljay P. Marasigan</strong><br>
+                ➟ Twitter Enjoyer (she/her)<br>
+                ➟ INTJ<br>
+                ➟ Cancer<br>
+                ➟ 22-05538@g.batstate-u.edu.ph
+            </div>
+        </td>
+    </tr>
+	<tr>
+        <th><img src="https://i.ibb.co/NCqL8Wm/403629066-664455985677276-3442638710394462470-n.jpg" width="200" height="200"/></th>
+        <td>
+            <div align="left"><strong>💡 Mary Kristine A. De Jose</strong><br>
+                ➟ dynamite with a laser beam (she/her)<br>
+                ➟ ISTP<br>
+                ➟ Gemini<br>
+                ➟ 22-03865@g.batstate-u.edu.ph
+            </div>
+        </td>
+        <th><img src="" width="200" height="200"/></th>
+        <td>
+            <div align="left"><strong>💡 Vince Clyde S. Banaag</strong><br>
+                ➟ maloi fanclub president (he/him)<br>
+                ➟ INTP<br>
+                ➟ Gemini<br>
+                ➟ 22-06373@g.batstate-u.edu.ph
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <th><img src="https://i.ibb.co/HCvmMgC/399840751-6737253069676296-2239225414771579590-n.jpg" width="200" height="200"/></th>
+        <td>
+            <div align="left"><strong>💡 Paul Alexis J. Reyes</strong><br>
+                ➟ kinemaster cracked (he/him)<br>
+                ➟ INTP<br>
+                ➟ Cancer<br>
+                ➟ 22-00869@g.batstate-u.edu.ph
+            </div>
+        </td>
+	    <th><img src="" width="200" height="200"/></th>
+        <td>
+            <div align="left"><strong>💡 Paul Oliver E. Cruz</strong><br>
+                ➟ <br>
+                ➟ <br>
+                ➟ 22-05614@g.batstate-u.edu.ph
+            </div>
+        </td>
+    </tr>
+</table>
+
+</div>
 
