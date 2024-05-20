@@ -95,15 +95,15 @@ In line with SDG 11, otherwise referred to as "Sustainable Cities and Communitie
 ### <a name="demo"></a>
 ## 📝 App Demo 
 <div align="center">
-<a href="https://drive.google.com/drive/folders/1IfsF7iF-H0RGXnC1SSoSOPTWIt6jzF00?usp=drive_link">
-<img src="https://i.ibb.co/VHwJK4N/image.png" height="auto" width="auto"><br><br></a>
+<a href="https://drive.google.com/drive/folders/1_Cv3teHxVAIRip_0qWHwVlaHUrgbgA2x?usp=sharing">
+<img src="https://i.ibb.co/r2XkL0g/1.png" height="auto" width="auto"><br><br></a>
 </div>
 
 ### <a name="vid"></a>
 ## 🎥 Video Presentation
 <div align="center">
 <a href="https://drive.google.com/file/d/1enYq-sukF_X7_uDEskDurPEyz5SpxMDH/view?usp=drive_link">
-<img src="https://i.ibb.co/VHwJK4N/image.png" height="auto" width="auto"><br><br></a>
+<img src="https://i.ibb.co/hR9F291/2.png" height="auto" width="auto"><br><br></a>
 </div>
 
 ### <a name="members"></a>
